@@ -2,3 +2,6 @@ Tempestade
 Noturno
 Colossus
 Lince Negra
+Wolverine
+Banshee
+Forge
